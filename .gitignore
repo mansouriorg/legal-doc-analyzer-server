@@ -19,6 +19,13 @@ lerna-debug.log*
 /coverage
 /.nyc_output
 
+# Backups made by the update commands
+/.update-backup
+
+# Saved analyses (they hold quotes from your documents) and the folders of the tests
+/data
+/.tmp-tests
+
 # IDEs and editors
 /.idea
 .project

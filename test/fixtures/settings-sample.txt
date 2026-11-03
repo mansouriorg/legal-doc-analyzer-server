@@ -1,0 +1,4 @@
+# A sample settings file for the tests. It holds no real values.
+SAMPLE_ONE=hello
+SAMPLE_TWO="two words"
+SAMPLE_EMPTY=
